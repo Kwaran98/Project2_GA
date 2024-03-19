@@ -39,7 +39,7 @@ const About = () => {
                 data-aos-duration="1500"
                 className="button-outline"
               >
-                Let's Go
+                Learn More
               </button>
             </div>
           </div>
